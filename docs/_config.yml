@@ -21,7 +21,7 @@
 title: Questionably Functional
 #email:
 description: The world is held together by liberal application of hope and baling wire.
-baseurl: "/docs/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://questionablyfunctional.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjsmcp
 github_username:  mjsmcp
